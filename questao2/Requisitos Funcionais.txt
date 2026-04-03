@@ -1,0 +1,28 @@
+Requisitos Funcionais
+
+RF01 - O sistema deve permitir definir um texto a ser exibido.
+
+RF02 - O sistema deve permitir configurar o tamanho da letra do texto.
+
+RF03 - O sistema deve permitir configurar a cor da fonte do texto.
+
+RF04 - O sistema deve permitir configurar a cor de fundo do texto.
+
+Requisitos Não Funcionais:
+
+
+RNF01 - O sistema deve ser simples e de fácil utilização.
+
+RNF02 - O sistema deve apresentar resposta imediata ao configurar o texto.
+
+RNF03 - O sistema deve garantir consistência nas configurações aplicadas.
+
+RNF04 - O sistema deve ser independente de linguagem de programação (não vinculado a componentes visuais reais).
+
+prompt:
+Baseado nos requisitos funcionais e não funcionais do exemplo do Texto Saída, e do diagrama de classe em anexo, construa uma aplicação com python e streamilit em um único arquivo com todos as funcionalidades necessárias e aplicações para funcionar agora mesmo.
+
+
+
+
+
