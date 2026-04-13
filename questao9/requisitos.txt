@@ -1,0 +1,22 @@
+QUESTÃO – Coleção de CD’s (Variação A)
+
+Requisitos Funcionais:
+
+RF01 - O sistema deve permitir cadastrar CDs com informações gerais.
+
+RF02 - O sistema deve permitir informar se o CD é uma coletânea.
+
+RF03 - O sistema deve permitir informar se o CD é duplo.
+
+RF04 - O sistema deve permitir cadastrar uma lista de músicos para cada CD.
+
+RF05 - O sistema deve permitir cadastrar músicas para cada CD.
+
+Requisitos Não Funcionais:
+
+RNF01 - O sistema deve organizar os dados de forma estruturada e clara.
+
+RNF02 - O sistema deve permitir consultas rápidas (tempo de resposta baixo).
+
+prompt:
+Baseado nos requisitos funcionais e não funcionais do exemplo da Coleção de CD’s, e do diagrama de classe em anexo, construa uma aplicação com python e streamilit em um único arquivo com todos as funcionalidades necessárias e aplicações para funcionar agora mesmo.

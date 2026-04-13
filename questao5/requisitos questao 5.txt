@@ -1,0 +1,18 @@
+CONTROLE DE GASTOS DIÁRIOS
+
+REQUISITOS FUNCIONAIS
+
+RF01 - O sistema deve permitir o registro de cada gasto individualmente.
+RF02 - O sistema deve registrar a data e o valor exato de cada transação.
+RF03 - O sistema deve permitir a seleção da forma de pagamento entre as opções: Dinheiro, Cartão de Crédito, Cartão de Débito, Ticket Alimentação e Ticket Refeição.
+RF04 - O sistema deve gerar um relatório mensal consolidado.
+RF05 - O sistema deve agrupar o total de gastos por categoria (tipo de gasto).
+RF06 - O sistema deve detalhar o total gasto em cada modalidade de pagamento dentro de cada categoria.
+
+REQUISITOS NÃO-FUNCIONAIS
+
+RNF01 - O sistema deve garantir a precisão decimal nos cálculos financeiros (duas casas decimais).
+RNF02 - O sistema deve permitir a ordenação dos dados por data ou por valor.
+
+prompt:
+Baseado nos requisitos funcionais e não funcionais do exemplo do controle de gasto diario, e do diagrama de classe em anexo, construa uma aplicação com python e streamilit em um único arquivo com todos as funcionalidades necessárias e aplicações para funcionar agora mesmo.

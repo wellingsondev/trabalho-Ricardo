@@ -1,0 +1,31 @@
+questão 11:  Sistema de Pessoas, Clientes e Funcionários
+
+requisito funcionais 
+
+RF01 - O sistema deve permitir cadastrar pessoas com nome e data de nascimento.
+
+RF02 - O sistema deve permitir cadastrar endereços associados a uma pessoa.
+
+RF03 - O sistema deve permitir cadastrar telefones associados a uma pessoa.
+
+RF04 - O sistema deve permitir cadastrar clientes com código, limite e data de compra.
+
+RF05 - O sistema deve permitir cadastrar funcionários com matrícula, salário e data de admissão.
+
+RF06 - O sistema deve permitir associar uma profissão a um cliente.
+
+RF07 - O sistema deve permitir associar um cargo a um funcionário.
+
+Requisitos Não Funcionais:
+
+RNF01 - O sistema deve apresentar os dados de forma organizada e estruturada.
+
+RNF02 - O sistema deve garantir integridade nos relacionamentos entre as entidades.
+
+RNF03 - O sistema deve ter tempo de resposta rápido para consultas .
+
+RNF04 - O sistema deve ser de fácil usabilidade.
+
+prompt:
+Baseado nos requisitos funcionais e não funcionais do exemplo da  sistema de Pessoas, Clientes e Funcionários
+, e do diagrama de classe em anexo, construa uma aplicação com python e streamilit em um único arquivo com todos as funcionalidades necessárias e aplicações para funcionar agora mesmo.

@@ -1,0 +1,24 @@
+QUESTÃO – Sala de Reunião
+
+Requisitos Funcionais:
+
+RF01 - O sistema deve permitir cadastrar salas de reunião com número e quantidade de lugares.
+
+RF02 - O sistema deve permitir cadastrar funcionários com nome, cargo e ramal.
+
+RF03 - O sistema deve permitir agendar reuniões informando data, horário, sala e responsável.
+
+RF04 - O sistema deve permitir informar o assunto da reunião.
+
+RF05 - O sistema deve permitir realocar reuniões, alterando sala, data e/ou horário.
+
+Requisitos Não Funcionais:
+
+RNF01 - O sistema deve apresentar os dados de forma organizada, semelhante a uma planilha.
+
+RNF02 - O sistema deve ter resposta rápida para consultas (até 2 segundos).
+
+RNF03 - O sistema deve garantir integridade no agendamento das reuniões.
+
+prompt:
+Baseado nos requisitos funcionais e não funcionais do exemplo da sala de Reunião, e do diagrama de classe em anexo, construa uma aplicação com python e streamilit em um único arquivo com todos as funcionalidades necessárias e aplicações para funcionar agora mesmo.

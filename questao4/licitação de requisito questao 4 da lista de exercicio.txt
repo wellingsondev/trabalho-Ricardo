@@ -1,0 +1,19 @@
+Sistema de prontuário eletrônico policlínica: 
+
+licitação de requisito 
+
+1. requisito funcional 
+	-RF001 - gerenciar paciente
+	-RF002 - Gerenciar médico
+	-RF003 - Gerenciar remédio
+	-RF004 - Gerar planilha de horário de remédio
+	-RF005 - Realizar o atendimento clinica
+
+	Classe: Paciente, médico, planilha de horário, atendimento
+
+2. Requisitos não funcionais
+	-RNF001 - Segurança
+	-RNF002 - Para todos as telas do sistema o tempo de resposta deve ser <= 2segundos em 90% dos casos
+
+prompt:
+Baseado nos requisitos funcionais e não funcionais do exemplo do prontuário eletrônico, e do diagrama de classe em anexo, construa uma aplicação com python e streamilit em um único arquivo com todos as funcionalidades necessárias e aplicações para funcionar agora mesmo.

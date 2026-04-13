@@ -1,0 +1,17 @@
+PROJETO: BONECO EM MOVIMENTO
+
+REQUISITOS FUNCIONAIS
+
+RF01 - O sistema deve permitir atribuir um nome ao boneco.
+RF02 - O sistema deve armazenar e atualizar a posição do boneco nas coordenadas X e Y.
+RF03 - O sistema deve permitir a alteração da direção do boneco (Cima, Baixo, Direita, Esquerda).
+RF04 - O sistema deve validar se o movimento solicitado é compatível com a direção atual.
+
+REQUISITOS NÃO-FUNCIONAIS
+
+RNF02 - O sistema deve garantir que as coordenadas X e Y sejam valores numéricos.
+RNF03 - A alteração de direção deve ser processada em tempo real (baixa latência).
+RNF04 - O código deve ser modular para permitir futuras expansões (como múltiplos bonecos).
+
+prompt:
+Baseado nos requisitos funcionais e não funcionais do exemplo do boneco em movimento, e do diagrama de classe em anexo, construa uma aplicação com python e streamilit em um único arquivo com todos as funcionalidades necessárias e aplicações para funcionar agora mesmo.

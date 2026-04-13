@@ -1,0 +1,16 @@
+COMANDA ELETRÔNICA
+
+REQUISITOS FUNCIONAIS
+
+RF01 - O sistema deve permitir a abertura de uma comanda por numeração.
+RF02 - O atendente deve poder registrar produtos e quantidades em uma comanda específica.
+RF03 - O sistema deve recuperar o valor unitário de cada produto no momento do fechamento.
+RF04 - O sistema deve calcular o valor total da compra somando os itens da comanda.
+
+REQUISITOS NÃO-FUNCIONAIS
+
+RNF01 - O sistema deve garantir a integridade dos preços.
+RNF02 - O tempo de resposta no fechamento da comanda deve ser imediato.
+
+prompt:
+Baseado nos requisitos funcionais e não funcionais do exemplo do comanda eletrônica, e do diagrama de classe em anexo, construa uma aplicação com python e streamilit em um único arquivo com todos as funcionalidades necessárias e aplicações para funcionar agora mesmo.

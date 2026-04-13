@@ -1,0 +1,16 @@
+COLEÇÃO DE CD'S (ADRIANO)
+
+REQUISITOS FUNCIONAIS
+
+RF01 - O sistema deve permitir o cadastro de um CD informando o artista .
+RF02 - O sistema deve permitir o registro do título do CD.
+RF03 - O sistema deve permitir o registro do ano de lançamento do CD.
+RF04 - O sistema deve listar todos os CDs cadastrados para consulta do usuário.
+
+REQUISITOS NÃO-FUNCIONAIS
+
+RNF01 - O sistema deve ser leve.
+RNF02 - A interface deve priorizar a entrada de texto rápida para facilitar o inventário.
+
+prompt:
+Baseado nos requisitos funcionais e não funcionais do exemplo da coleção de cd's, e do diagrama de classe em anexo, construa uma aplicação com python e streamilit em um único arquivo com todos as funcionalidades necessárias e aplicações para funcionar agora mesmo.

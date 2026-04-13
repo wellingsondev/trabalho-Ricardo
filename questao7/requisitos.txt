@@ -1,0 +1,18 @@
+LISTA DE COMPRAS MENSAL
+
+REQUISITOS FUNCIONAIS
+
+RF01 - O sistema deve permitir o cadastro de produtos com nome, unidade de produto , quantidade prevista e preço estimado.
+RF02 - O sistema deve permitir que a quantidade efetiva de compra seja editada manualmente (independente da prevista).
+RF03 - O sistema deve permitir a atualização mensal do preço estimado de cada produto cadastrado.
+RF04 - O sistema deve calcular o subtotal de cada produto .
+RF05 - O sistema deve calcular o valor total geral da lista de compras.
+
+REQUISITOS NÃO-FUNCIONAIS
+
+RNF01 - O sistema deve suportar valores decimais para quantidades e preços.
+RNF02 - O sistema deve garantir a persistência dos preços atualizados para o mês seguinte.
+RNF03 - A interface deve ser organizada em formato de tabela para facilitar a conferência rápida durante as compras.
+
+prompt:
+Baseado nos requisitos funcionais e não funcionais do exemplo do lista de compra mensal, e do diagrama de classe em anexo, construa uma aplicação com python e streamilit em um único arquivo com todos as funcionalidades necessárias e aplicações para funcionar agora mesmo.
